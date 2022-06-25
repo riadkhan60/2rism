@@ -512,3 +512,14 @@ footer {
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+
+/* */
+.toggleOn
+{
+  display: none;
+}
+
+.toggleClose
+{
+  display: none;
+}
